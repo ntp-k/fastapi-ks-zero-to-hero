@@ -21,3 +21,5 @@ An API (application programming interface) is a set of rules or protocols that l
 * XML-RPC (XML-Remote Procedure Call) - use XML format to transfer data. older than SOAP
 * JSON-RPC - use JSON format to transfer
 * REST (Representational State Transfer) - can use XML or JSON format to transfer data
+
+# [FastAPI](https://fastapi.tiangolo.com/tutorial)
